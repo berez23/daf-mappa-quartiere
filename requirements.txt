@@ -19,7 +19,7 @@ codicefiscale==0.9
 configparser==3.5.0
 constantly==15.1.0
 coverage==4.4.2
-cryptography==2.3
+cryptography==3.2
 cssselect==1.0.1
 cycler==0.10.0
 dask==0.16.1
@@ -42,7 +42,7 @@ html5lib==1.0.1
 hyperlink==17.1.1
 hypothesis==3.38.5
 idna==2.6
-imageio==2.2.0
+imageio==2.6.0
 incremental==17.5.0
 ipykernel==4.8.0
 ipython==6.2.1
@@ -51,7 +51,7 @@ ipywidgets==7.1.0
 isort==4.3.4
 itsdangerous==0.24
 jedi==0.12.1
-Jinja2==2.10
+Jinja2==2.10.1
 json-rpc==1.10.8
 json2html==1.2.1
 jsonschema==2.6.0
@@ -60,7 +60,7 @@ jupyter-console==5.2.0
 jupyter-core==4.4.0
 lazy-object-proxy==1.3.1
 locket==0.2.0
-lxml==4.1.1
+lxml==4.6.2
 Markdown==2.6.9
 MarkupSafe==1.0
 matplotlib==2.1.2
@@ -72,7 +72,7 @@ nbconvert==5.3.1
 nbformat==4.4.0
 networkx==2.1
 notebook>=5.7.2
-numpy==1.14.0
+numpy==1.16.3
 olefile==0.44
 pandas==0.22.0
 pandocfilters==1.4.2
@@ -83,13 +83,13 @@ partd==0.3.8
 patsy==0.5.0
 pexpect==4.3.1
 pickleshare==0.7.4
-Pillow==5.0.0
+Pillow==6.2.0
 pipdeptree==0.13.0
 plotly==2.2.2
 pluggy==0.6.0
 prometheus-client==0.3.0
 prompt-toolkit==1.0.15
-psutil==5.4.3
+psutil==5.6.7
 psycopg2==2.7.4
 ptyprocess>=0.5.2
 py4j==0.10.6
@@ -103,7 +103,7 @@ pydocstyle==2.1.1
 pyflakes==1.6.0
 Pygments==2.2.0
 pykerberos==1.1.14
-pylint==1.9.2
+pylint==2.5.0
 Pympler==0.5
 pyOpenSSL==17.5.0
 pyparsing==2.2.0
@@ -135,13 +135,13 @@ smart-open==1.5.3
 snowballstemmer==1.2.1
 sortedcontainers==1.5.9
 sparkmagic==0.12.5
-SQLAlchemy==1.2.6
+SQLAlchemy==1.2.18
 statsmodels==0.8.0
 tblib==1.3.2
 terminado==0.8.1
 testpath==0.3.1
 toolz==0.9.0
-tornado==4.5.3
+tornado==5.1.0
 traitlets==4.3.2
 Twisted==17.5.0
 urllib3>=1.23
@@ -149,7 +149,7 @@ utm==0.4.2
 w3lib==1.18.0
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.1.0
 wrapt==1.10.11
 yapf==0.20.0
